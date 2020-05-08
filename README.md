@@ -24,8 +24,6 @@ Mainly we care about the red traffic light because that tells the car to stop dr
 tells the car to keep driving. For further practicing traffic light detection and recognition, check out this [object detection
 jupyter notebook](./docs/object_detection/CarND-Object-Detection-Lab.ipynb).
 
-Check out my youtube video [End to End Self-Driving Car Application Demo](https://youtu.be/VpctJ7Kvmv4) where I test the car to maneuver around the virtual highway with traffic lights at each intersection while dealing with camera latency issues between the system integration simulator and the ROS system.
-
 Overview
 ---
 
@@ -235,7 +233,7 @@ How to Run Demo
 1\. Clone the project repository
 
 ```bash
-git clone https://github.com/james94/Capstone-Program-Autonomous-Vehicle-CarND
+git clone https://github.com/zexihan/CarND-Capstone
 ```
 
 2\. Install python dependencies
